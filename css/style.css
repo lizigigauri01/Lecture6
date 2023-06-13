@@ -1,0 +1,36 @@
+header {
+	padding: 20px 0;
+	background-color: #F5F5F5;
+	width: 100%;
+	position: fixed;
+	top: 0;
+	z-index: 100;
+}
+
+.container {
+	width: 1170px;
+	padding-left: 137px;
+}
+
+
+nav {
+	display: inline-block;
+	
+}
+
+li {
+	display: inline-block;
+	margin-right: 50px;
+	
+}
+
+.logo, nav, li {
+	vertical-align: middle;
+}
+
+li a {
+	color: black;
+	font-size: 11px;
+	font-family: 'Roboto', sans-serif;
+}
+
