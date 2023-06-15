@@ -55,7 +55,6 @@ h1 {
 }
 
 .pirveli {
-	border: black dotted;
 	margin-top: 27px;
 	margin-left: 137px;
 	margin-left: 136px;
@@ -151,7 +150,6 @@ h3 {
 
 .s2 {
 	display: inline-block;
-	border: black dotted;
 	margin-left: 138px;
 	margin-top: 30px;
 }
@@ -164,7 +162,6 @@ h3 {
 
 
 .s3 {
-	border: black dotted;
 	width: 367px;
 	display: inline-block;
 	vertical-align: top;
