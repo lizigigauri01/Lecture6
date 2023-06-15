@@ -11,7 +11,7 @@ header {
 	z-index: 100;
 }
 
-.container {
+.headerss {
 	width: 1170px;
 	margin-left: 138px;
 }
@@ -40,6 +40,10 @@ li a {
 
 
 
+/*PIRVELI SEQCIAAAAA*/
+section {
+	width: 1320px;
+}
 
 h1 {
 	font-size: 24px;
@@ -48,23 +52,71 @@ h1 {
 	margin-left: 137px;
 }
 
-
-.s-2 {
-	margin-bottom: 200px;
+.pirveli {
+	border: black dotted;
+	margin-top: 27px;
+	margin-left: 137px;
+	margin-left: 136px;
 }
 
-
-.wrapper {
-	border: 2px dotted red;
+.foto1 {
 	display: inline-block;
 	position: relative;
+	width: 362px;
+	margin-right: 40px;
 }
+.foto2 {
+	display: inline-block;
+	position: relative;
+	width: 362px;
+	margin-right: 40px;
+}
+.foto3 {
+	display: inline-block;
+	position: relative;
+	width: 362px;
+}
+
+
 h2 {
 	position: absolute;
-	top: 50%;
-	left: 50%;
-	transform: translate(-50%, -50%);
-	color: yellow;
+	top: 32px;
+	left: 41px;
+	color: white;
 	font-size: 24px;
+	font-family: 'Roboto', sans-serif;
 }
+
+.text1 {
+	padding-top: 68px;
+	padding-bottom: 41px;
+	padding-left: 37px;
+	padding-right: 87px;
+	width: 362px;
+	background-color: #FFFFFF;
+}
+
+.ptext {
+	width: 238px;
+	font-size: 10px;
+	font-family: 'Roboto', sans-serif;
+	line-height: 2.2;
+	color: #8A8787;
+}
+
+.clock {
+	display: inline-block;
+	padding-top: 11px;
+}
+
+.nexttoclock {
+	display: inline-block;
+	font-size: 10px;
+	font-family: 'Roboto', sans-serif;
+	padding-top: 14px;
+	vertical-align: top;
+	color: #8A8787;
+}
+
+
 
